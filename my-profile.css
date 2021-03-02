@@ -1,0 +1,14 @@
+h1.my-name {
+    color: rgb(30, 0, 128);
+    padding: 40px 20px;
+  }
+  
+  ul.my-details {
+    border: 1px solid rgb(204, 20, 20);
+    padding: 40px;
+  }
+  
+  li.detail {
+    list-style-type: square;
+    padding: 10px;
+  }
